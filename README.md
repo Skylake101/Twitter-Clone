@@ -1,2 +1,2 @@
 # Twitter-Clone
-Development of a twitter clone using REACT
+Development of a twitter clone using Firebase, React.
