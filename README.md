@@ -1,3 +1,5 @@
+Project can be downloaded and run in visual studio code; however project is _not_ currently live on Google Firebase
+
 Twitter Clone Developed with JavaScript React, CSS and HTML.
 
 All code is written and implimented by me.
